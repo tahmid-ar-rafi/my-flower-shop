@@ -37,7 +37,7 @@
 }
 .button{
     width: 110px;
-    height: 40px;
+    height: 50px;
     border-radius: 8px;
     border: none;
     color: aliceblue;
@@ -170,4 +170,36 @@ span{
     width: 230px;
     height: 290px;
     margin-top: -50px;
+}
+.coupon-container{
+    width: 965px;
+    height: 350px;
+    margin: 100px auto 100px;
+    background-image: url("./Flower Asset/Rectangle 9.png");
+    background-repeat: no-repeat;
+    background-size: 970px 350px;
+}
+.coupon-title{
+    text-align: center;
+    padding: 90px;
+}
+h1{
+    padding-bottom: 15px;
+    color: #272727;
+}
+p{
+    color: rgba(39, 39, 39, 0.60);
+}
+.form-and-button{
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+.about-form{
+    width: 400px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 5px;
+    color: rgba(39, 39, 39, 0.60);;
 }
