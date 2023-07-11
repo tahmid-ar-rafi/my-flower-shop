@@ -3,6 +3,7 @@
     padding: 0px;
     font-family: sans-serif;
 }
+        /* banner section */
 .banner-container{
     width: 1366px;
     height: 600px;
@@ -44,6 +45,7 @@
     background-color: #E55473;
     font-family: system-ui;
 }
+        /* feature section */
 .feature-title{
     text-align: center;
     margin-right: auto;
@@ -125,6 +127,7 @@
     text-decoration: underline;
     font-size: larger;
 }
+        /* hot deal section */
 .hotdeal-container{
     height: 80vh;
     margin-top: 15%;
@@ -149,6 +152,7 @@
 .off{
     color: rgba(229, 84, 115, 1);
 }
+        /* instagram section */
 .insta-title{
     width: 40%;
     text-align: center;
@@ -171,10 +175,11 @@
     height: 290px;
     margin-top: -50px;
 }
+        /* special section */
 .special-container{
     height: 50vh;
     margin-top: 80px;
-    background-color: #34a0e9ea;
+    background-color: #a87be2ea;
 }
 .title-container{
     margin: auto;
@@ -190,9 +195,9 @@
 }
 .special-para{
     color: rgb(248, 241, 241);
-    font-family: serif;
     padding-bottom: 20px;
 }
+        /* coupon section */
 .coupon-container{
     width: 965px;
     height: 350px;
@@ -212,6 +217,7 @@ h1{
 p{
     color: rgba(39, 39, 39, 0.60);
 }
+        /* footer section */
 .form-and-button{
     display: flex;
     justify-content: center;
