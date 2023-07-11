@@ -60,7 +60,7 @@
     gap: 10px;
 }
 .feature-heading{
-    font-size: 30px;
+    font-size: 40px;
     padding-bottom: 20px;
 }
 .feature-paragraph{
@@ -134,19 +134,19 @@
     align-items: center;
 }
 .hotdeal-title{
-    width: 35%;
+    width: 40%;
     height: 30%;
     text-align: center;
 }
 .hotdeal-heading{
     padding-bottom: 20px;
-    font-size: xx-large;
+    font-size: 38px;
 }
 .hotdeal-paragraph{
     padding-bottom: 20px;
     color: rgba(39, 39, 39, 0.60);
 }
-span{
+.off{
     color: rgba(229, 84, 115, 1);
 }
 .insta-title{
@@ -154,9 +154,9 @@ span{
     text-align: center;
     margin: 10% auto 5%;
 }
-.insta-headin{
-    font-size: 30px;
-    padding-bottom: 50px;
+.insta-heading{
+    font-size: 40px;
+    padding-bottom: 30px;
 }
 .insta-para{
     color: rgba(39, 39, 39, 0.60);
@@ -170,6 +170,28 @@ span{
     width: 230px;
     height: 290px;
     margin-top: -50px;
+}
+.special-container{
+    height: 50vh;
+    margin-top: 80px;
+    background-color: #34a0e9ea;
+}
+.title-container{
+    margin: auto;
+    text-align: center;
+    width: 1300px;
+    padding-top: 50px;
+}
+.special-heading{
+    color: white;
+    font-size: xx-large;
+    font-family: serif;
+    padding-bottom: 20px;
+}
+.special-para{
+    color: rgb(248, 241, 241);
+    font-family: serif;
+    padding-bottom: 20px;
 }
 .coupon-container{
     width: 965px;
@@ -202,4 +224,31 @@ p{
     border-radius: 5px;
     padding-left: 5px;
     color: rgba(39, 39, 39, 0.60);;
+}
+.footer-container{
+    height: 50vh;
+    background-color: #111010;
+}
+.footer-title{
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    padding-top: 95px;
+}
+.flower{
+    color: rgba(229, 84, 115, 1);
+}
+.shop{
+    color: rgba(255, 255, 255, 1);
+}
+.footer-heading{
+    font-size: xx-large;
+    padding-bottom: 10px;
+}
+.footer-para{
+    color: rgba(255, 255, 255, 0.9);
+    padding-bottom: 30px;
+}
+.last-part{
+    color: rgba(255, 255, 255, 0.4);
 }
